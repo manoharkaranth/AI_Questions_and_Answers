@@ -1,8 +1,10 @@
 # AI_Questions_and_Answers
-This repository is for hosting unique Artificial Intelligence Questions and Answers.
+This repository is for hosting Artificial Intelligence Questions and Answers.<br/>
+## Editor: Manohar Karanth
 
-#### Q1: What is the rationale behind connections in Neural Networks?
-<code> Frank Rosenblatt (American Psychologist known for Rosenblatt Perceptron) had met a biologist. Biologist used to feed a dog and run a bell simultaneously. After some days when he ran the bell without feeding the dog, saliva came out from dog’s mouth. They found out that Neurons which fire when eating food and neurons that fire while hearing bell were connected when fires multiple times together. This ‘Neurons which fire together wire together’ concept is the reason behind connection in a neural network.</code>
+
+#### Q1: What is the idea behind connections in Neural Networks?
+<code> Frank Rosenblatt (American Psychologist known for Rosenblatt Perceptron) had met a biologist. Biologist used to feed a dog and run a bell simultaneously. After some days when he ran the bell without feeding the dog, saliva came out from dog’s mouth. They found out that Neurons which fire when eating food and neurons that fire while hearing bell were connected when fires multiple times together. This ‘Neurons which fire together wire together’ concept is the idea behind connection in a neural network.</code>
 #### Q2: Differentiate between a 3D vector and 3D tensor in TensorFlow.
 <code> Difference is quite ambiguous. Both ‘number of entries along the axis’ and ‘number of axis in a Tensor’ are the ‘dimensions’ of a tensor in TensorFlow. However, former is the associated with vector (nD-Vector) and later is with Tensor (nD-Tensor) </code> 
 </br><code>Ex:  import numpy as np </code>
