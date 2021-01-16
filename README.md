@@ -1,5 +1,5 @@
 # AI_Questions_and_Answers
-This repository is for hosting Artificial Intelligence Questions and Answers.<br/>
+This repository is for hosting unusual Questions and Answers related to Artificial Intelligence.<br/>
 ## Editor: Manohar Karanth
 
 
