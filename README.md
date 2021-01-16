@@ -45,3 +45,10 @@ This repository is for content writing on unusual Questions and Answers related 
 - <code>Considers related variables which impacts prediction accuracy. For ex: price </code>
 - <code>Takes metadata into account to handle seasonality </code>
 - <code>Handles new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar data available) </code>
+#### Q13: How to handle poor quality data?
+<code> Data science is driven by data, without them, one is just another person with opinion. Poor quality data is a common scenario and we can tackle it by following means</code>
+- <code>Data cleaning: missing value imputations, outlier handing, balancing data through sampling. </code>
+- <code>Data augmentation: generating more data from existing and available data. </code>
+- <code>Data risk analysis: we should establish data reliability and risk involved. </code> 
+#### Q14: Why is Bag-of-Words not applied with deep learning?
+<code>Bag-Of-Words (BoW) is a tokenization method which does not preserve the order. It generates token which are understood as text and not as sequence. Structure of the sequence is also won’t be preserved. So, BoW is typically used in traditional machine learning and not used in deep learning.</code>
