@@ -39,7 +39,7 @@ This repository is for hosting unique Artificial Intelligence Questions and Answ
 #### Q11: Why is feature engineering less important in Deep learning unlike traditional machine learning?
 <code>Data scientists perform feature engineering to increase the quality of data representation. Features are transformed into a new representation. Traditional ML algorithms’ hypothesis space is not rich enough to learn hypothesis space on their own. This necessitates a data scientist to perform feature engineering on his own before feeding data to an algorithm. However, deep learning models learn complex patterns without any assistance. This property solves a practitioner’s problem by great extent.</code>
 #### Q12: How do deep learning models outperform traditional models in time series analysis?
-<code>Deep learning models such as DeepAR outperform traditional time series models hands down by incorporating following factors.</code>
+<code>Deep learning models such as DeepAR outperform traditional time series models by incorporating following factors.</code>
 - <code>Considers related variables which impacts prediction accuracy. For ex: price </code>
 - <code>Takes metadata into account to handle seasonality </code>
 - <code>Handles new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar data available) </code>
