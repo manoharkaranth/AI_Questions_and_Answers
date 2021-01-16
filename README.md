@@ -18,7 +18,7 @@ This repository is for content writing on unusual Questions and Answers related 
 - <code> DNNs require large data to learn complex patterns. </code>
 - <code> DNNs usually need hardware accelerators. </code>
 - <code> DNNs need substantial expertise for model tuning and architectural design.</code>
-#### Q5: Why is Neural Network known as Universal Functional Approximator (UFA)?
+#### Q5: Why is Neural Network known as Universal Process Approximator (UFA)?
 <code>Machine learning models are the representations of the processes in the real world. A process represents a relationship between the inputs and outputs. For example, model to predict sales is a process wherein relation between the past and the present sale is considered (since it is sequential). Using Neural network, we can represent any processes in the real world. Hence, they are called as universal process approximator.
 </code>
 #### Q6: Why is normalization preferred in Deep Learning over standardization?
