@@ -34,7 +34,7 @@ This repository is for hosting Artificial Intelligence Questions and Answers.<br
 - <code> Chatbot: AI </code>
 #### Q9: What is the meaning of ‘learning’ in Deep Learning?
 <code>It is basically learning about what values to assign to each weight. For each epoch model computes the gradient of the loss function with respect to each weight that has been set earlier. This gradient will be multiplied with a learning rate (0.01 to 0.001).  Weights will get updated  with calculated values by removing the previous one. Assignment of weights are done based on how these incremental changes are affecting the loss function in each epoch.</code>
-#### Q10: How do you calculate threshold reconstruction error in autoencoder for anomaly detection?
+#### Q10: How do you calculate reconstruction error's threshold in autoencoder for anomaly detection?
 <code>Fixing a value of autoencoder’s threshold in anomaly is challenging and tricky. It is highly dependent on the business problem and the required KPIs. There are broadly two approaches for finding the thresholds. </code>
 - <code> When we have labelled data, based on the percentile of anomalies we fix the threshold. </code>
 - <code> When we don’t have labelled data, we find it by optimizing against the loss function. </code>
