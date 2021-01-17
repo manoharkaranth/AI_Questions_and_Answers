@@ -1,5 +1,5 @@
 # AI_Questions_and_Answers
-This repository is for content writing on basic and unusual Q&As related to Artificial Intelligence.<br/>
+This repository is for content writing on basic and unusual Q&As related to artificial intelligence.<br/>
 ## Editor: Manohar Karanth
 
 
