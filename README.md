@@ -1,12 +1,12 @@
 # AI_Questions_and_Answers
-This repository is for content writing on unusual Questions and Answers related to Artificial Intelligence.<br/>
+This repository is for content writing on basic and unusual Q&As related to Artificial Intelligence.<br/>
 ## Editor: Manohar Karanth
 
 
 #### Q1: What is the idea behind connections in Neural Networks?
 <code> Frank Rosenblatt (American Psychologist known for Rosenblatt Perceptron) had met a biologist who used to feed a dog and run a bell simultaneously. After some days when he had run the bell without feeding the dog, saliva came out from dog’s mouth. They found out that Neurons that fire when eating food and neurons that fire while hearing bell were connected when fired multiple times together. This ‘Neurons which fire together wire together’ concept is the idea behind connections and weights in a neural network.</code>
 #### Q2: Differentiate between a 3D vector and 3D tensor in TensorFlow.
-<code> Difference is quite ambiguous. Both ‘number of entries along the axis’ and ‘number of axis in a tensor’ are the ‘dimensions’ of a tensor in TensorFlow. However, former is the associated with vector (nD-Vector) and later is with tensor (nD-Tensor) </code> 
+<code> Difference is quite ambiguous. Both ‘number of entries along the axis’ and ‘number of axis in a tensor’ are the ‘dimensions’ of a tensor in TensorFlow. However, former is the associated with vector (nD-Vector) and latter is with tensor (nD-Tensor) </code> 
 </br><code>Ex:  import numpy as np </code>
 <code>     x= np.array([7,1,5]) 
            Here, x is a 3D-vector and 1D-tensor. </code>
@@ -31,7 +31,7 @@ This repository is for content writing on unusual Questions and Answers related 
 #### Q8: Identify systems as AI or not.
 - <code> Predicting millage of a vehicle: AI </code>
 - <code> Excel sheet that calculates predefined function on a data: not AI </code>
-- <code> Big data processing using Hadoop: not AI </code>
+- <code> Big data processing using Hadoop: may or may not AI </code>
 - <code> Chatbot: AI </code>
 #### Q9: What is the meaning of ‘learning’ in Deep Learning?
 <code>It is basically learning about what values to assign to each weight. For each epoch model computes the gradient of the loss function with respect to each weight that has been set earlier. This gradient will be multiplied with a learning rate (usually 0.01 to 0.001).  Weights will get updated  with calculated values by removing the previous ones. Assignment of weights are done based on how these incremental changes are affecting the loss function in each epoch.</code>
@@ -45,10 +45,10 @@ This repository is for content writing on unusual Questions and Answers related 
 <code>Deep learning models such as DeepAR outperform traditional time series models by incorporating following factors.</code>
 - <code>Considers related variables which impact prediction accuracy. For ex: price is considered while forecasting sales. </code>
 - <code>Takes metadata into account to handle seasonality. For ex: item metadata in sales.</code>
-- <code>Handles new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar data available). </code>
+- <code>Handles new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar and available data). </code>
 #### Q13: How to handle poor quality data?
 <code> Data science is driven by data, without which one is just another person with opinion. Poor quality data is a common scenario and we can tackle it by following means</code>
-- <code>Data cleaning: missing value imputations, outlier handing, balancing data through sampling. </code>
+- <code>Data cleaning: missing value imputations, outlier handing, balancing data through resampling. </code>
 - <code>Data augmentation: generating more data from existing and available data. </code>
 - <code>Data risk analysis: establishing data reliability and risk involved. </code> 
 #### Q14: Why is Bag-of-Words not applied with deep learning?
