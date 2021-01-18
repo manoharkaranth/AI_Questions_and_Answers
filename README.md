@@ -43,9 +43,9 @@ This repository is for content writing on basic and unusual Q&As related to arti
 <code>Data scientists perform feature engineering to increase the quality of data representations. Features are transformed into new representations. Traditional ML algorithms’ hypothesis space is not rich enough to learn required features on their own. This necessitates a data scientist to perform feature engineering manually before feeding data to an algorithm. But deep learning models are capable to learn complex patterns without any assistance.</code>
 #### Q12: How do deep learning models outperform traditional models in time series analysis?
 <code>Deep learning models such as DeepAR outperform traditional time series models by incorporating following factors.</code>
-- <code>Considers related variables which impact prediction accuracy. For ex: price is considered while forecasting sales. </code>
-- <code>Takes metadata into account to handle seasonality. For ex: item metadata in sales.</code>
-- <code>Handles new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar and available data). </code>
+- <code>Consider related variables which impact prediction accuracy. For ex: price is considered while forecasting sales. </code>
+- <code>Take metadata into account to handle seasonality. For ex: item metadata in sales.</code>
+- <code>Handle new items with no historical data. For ex: If Adidas shoes are new, it will consider Nike shoes data (similar and available data). </code>
 #### Q13: How to handle poor quality data?
 <code> Data science is driven by data, without which one is just another person with opinion. Poor quality data is a common scenario and we can tackle it by following means</code>
 - <code>Data cleaning: missing value imputations, outlier handing, balancing data through resampling. </code>
