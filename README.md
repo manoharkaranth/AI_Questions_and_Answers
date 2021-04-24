@@ -52,4 +52,4 @@ This repository is for content writing on basic and unusual Q&As related to arti
 - <code>Data augmentation: generating more data from existing and available data. </code>
 - <code>Data risk analysis: establishing data reliability and risk involved. </code> 
 #### Q14: Why is Bag-of-Words not applied with deep learning?
-<code>Bag-Of-Words (BoW) is a tokenization method which does not preserve the order. It generates tokens which are understood as texts and not as sequences. Structure of the sequences is also won’t be preserved. So, BoW is typically used in traditional machine learning and not used in deep learning.</code>
+<code>Bag-Of-Words (BoW) is a tokenization method which does not preserve the order. It generates tokens which are understood as texts and not as sequences. Structure of the sequences are not preserved either. So, BoW is typically used in traditional machine learning and not used in deep learning.</code>
