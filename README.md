@@ -37,7 +37,7 @@ This repository is for content writing on basic and unusual Q&As related to arti
 <code>It is basically learning about what values to assign to each weight. For each epoch model computes the gradient of the loss function with respect to each weight that has been set earlier. This gradient will be multiplied with a learning rate (usually 0.01 to 0.001).  Weights will get updated  with calculated values by removing the previous ones. Assignment of weights are done based on how these incremental changes are affecting the loss function in each epoch.</code>
 #### Q10: How do you calculate reconstruction error's threshold in autoencoder for anomaly detection?
 <code>Fixing a value for autoencoder’s threshold in anomaly is challenging and tricky. It is highly dependent on the business problem and the required KPIs. There are broadly two approaches for finding the thresholds. </code>
-- <code> When we have labelled data, based on the percentile of anomalies we fix the threshold. </code>
+- <code> When we have labelled data, based on the percentile of anomalies threshold will be fixed. </code>
 - <code> When we don’t have labelled data, we find it by optimizing against the loss function. </code>
 #### Q11: Why is feature engineering less important in deep learning unlike traditional machine learning?
 <code>Data scientists perform feature engineering to increase the quality of data representations. Features are transformed into new representations. Traditional ML algorithms’ hypothesis space is not rich enough to learn required features on their own. This necessitates a data scientist to perform feature engineering manually before feeding data to an algorithm. But deep learning models are capable to learn complex patterns without any assistance.</code>
